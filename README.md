@@ -14,3 +14,4 @@ Alfonso Sanchez\
 Director de equipo:\
 Ivan Morillas
 
+Se recomienda leer el informe para una información mas ampliada.
