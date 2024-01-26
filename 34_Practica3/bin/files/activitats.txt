@@ -1,0 +1,60 @@
+Visita;Exploración del Arte;8001;5;Galería;true;true;ABC S.L.
+Visita;Descubrimiento Histórico;8002;10;Museo Histórico;true;true;XYZ Consultores
+Visita;Aventura en la Naturaleza;8003;15;Centro Ambiental;true;true;InnovaTech
+Visita;Maravillas Tecnológicas;8004;20;Centro de Innovación;true;true;Soluciones Empresariales
+Visita;Viaje al Futuro;8005;25;Laboratorio Futurista;true;true;TechCorp Iberia
+Visita;Inspiración Creativa;8006;1;Espacio Creativo;true;true;Grupo Innovador
+Visita;Soluciones Sostenibles;8007;2;Centro Ecológico;true;true;EcoSoluciones
+Visita;Sistemas Dinámicos;8008;3;Laboratorio de Dinámica;true;true;Dynamic Systems
+Visita;Tecnología Inteligente;8009;4;Centro de Innovación Tecnológica;true;true;Smart Solutions
+Visita;Soluciones Integradas;8010;5;Centro de Integración Empresarial;true;true;Soluciones Integradas
+Visita;Innovación en Software;8011;6;Centro de Desarrollo de Software;true;true;InnovaSoft
+Visita;Ideas Empresariales;8012;7;Centro de Emprendimiento;true;true;Nuevas Ideas Empresariales
+Visita;Empresarial Avanzado;8013;8;Centro de Empresas Avanzadas;true;true;Grupo Empresarial Avanzado
+Visita;Tech Innovations;8014;9;Centro de Innovaciones Tecnológicas;true;true;Tech Innovations
+Visita;Consultoría Avanzada;8015;10;Centro de Consultoría;true;true;Consultoría Avanzada
+Visita;Soluciones Globales;8016;11;Centro Global Empresarial;true;true;Soluciones Empresariales Globales
+Visita;Sistemas Inteligentes;8017;12;Laboratorio de Sistemas;true;true;Sistemas Inteligentes
+Visita;Negocios Innovadores;8018;1;Centro de Innovación Empresarial;true;true;InnovaNegocios
+Visita;Tecnología de Datos;8019;2;Centro de Datos Avanzados;true;true;DataTech Solutions
+Visita;Servicios Empresariales;8020;3;Centro de Servicios Globales;true;true;Global Business Services
+Taller;Explorando la Ciencia;8001;14;10;360;100;EmpresaABC;0;0;0
+Taller;Innovación Tecnológica;8002;16;11;480;80;XYZ Consultores;1;0;0
+Taller;Desarrollo Empresarial;8003;18;12;240;120;InnovaTech;1;0;0
+Taller;Creatividad en los Negocios;8004;20;13;300;150;Soluciones Empresariales;1;0;0
+Taller;Estrategias Avanzadas;8005;22;10;420;90;TechCorp Iberia;1;0;0
+Taller;Emprendimiento Sostenible;8006;9;12;180;110;Grupo Innovador;1;0;0
+Taller;Soluciones Ecológicas;8007;11;8;360;100;EcoSoluciones;1;0;0
+Taller;Dinámicas de Grupo;8008;13;20;480;80;Dynamic Systems;1;0;0
+Taller;Innovación Tecnológica;8009;15;19;240;120;Smart Solutions;1;0;0
+Taller;Integración Empresarial;8010;17;15;300;150;Soluciones Integradas;1;0;0
+Taller;Desarrollo de Software;8011;19;14;420;90;InnovaSoft;1;0;0
+Taller;Ideas Empresariales;8012;21;21;180;110;Nuevas Ideas Empresariales;0;0;0
+Taller;Empresarial Avanzado;8013;23;23;360;100;Grupo Empresarial Avanzado;0;0;0
+Taller;Innovaciones Tecnológicas;8014;1;10;480;80;Tech Innovations;0;0;0
+Taller;Consultoría Avanzada;8015;3;10;240;120;Consultoría Avanzada;0;0;0
+Taller;Soluciones Globales;8016;5;11;300;150;Soluciones Empresariales Globales;0;0;0
+Taller;Sistemas Inteligentes;8017;7;11;420;90;Sistemas Inteligentes;0;0;0
+Taller;Innovación en Negocios;8018;9;11;180;110;InnovaNegocios;0;0;0
+Taller;Tecnología de Datos;8019;11;12;360;100;DataTech Solutions;0;0;0
+Taller;Servicios Empresariales;8020;13;17;480;80;Global Business Services;0;0;0
+Xerrada;Ana;Xerrada Empresarial;8001;2;ComercXYZ
+Xerrada;Carlos;Xerrada Tecnológica;8002;4;ABC S.L.
+Xerrada;Elena;Xerrada Innovadora;8003;6;XYZ Consultores
+Xerrada;David;Xerrada de Negocios;8004;8;InnovaTech
+Xerrada;Francisco;Xerrada Emprendedora;8005;10;Soluciones Empresariales
+Xerrada;Gabriela;Xerrada Ambiental;8006;12;TechCorp Iberia
+Xerrada;Hector;Xerrada de Software;8007;14;Grupo Innovador
+Xerrada;Isabel;Xerrada de Consultoría;8008;16;EcoSoluciones
+Xerrada;Juan;Xerrada de Innovación;8009;18;Dynamic Systems
+Xerrada;Karen;Xerrada de Tecnología;8010;20;Smart Solutions
+Xerrada;Luis;Xerrada de Integración;8011;22;Soluciones Integradas
+Xerrada;Maria;Xerrada de Desarrollo;8012;24;InnovaSoft
+Xerrada;Nacho;Xerrada de Emprendimiento;8013;26;Nuevas Ideas Empresariales
+Xerrada;Olga;Xerrada de Empresas;8014;28;Grupo Empresarial Avanzado
+Xerrada;Pablo;Xerrada de Innovación Tecnológica;8015;1;Tech Innovations
+Xerrada;Rebeca;Xerrada de Consultoría Avanzada;8016;3;Consultoría Avanzada
+Xerrada;Sergio;Xerrada de Soluciones Globales;8017;5;Soluciones Empresariales Globales
+Xerrada;Teresa;Xerrada de Sistemas Inteligentes;8018;7;Sistemas Inteligentes
+Xerrada;Umberto;Xerrada de Innovación de Negocios;8019;9;InnovaNegocios
+Xerrada;Vanesa;Xerrada de Tecnología de Datos;8020;11;DataTech Solutions
