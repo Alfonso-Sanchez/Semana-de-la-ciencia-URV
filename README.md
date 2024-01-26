@@ -5,9 +5,12 @@ Puntos a destacar de la practica:
 - Hemos aprendido a cargar la informacion desde archivos y guardar esta informacion una vez tratada.
 - El diseño grafico de esta practica fue el primer reto, para todos integrantes del equipo, el cual hemos superado y estamos contentos de ello.
 
-Integrantes del trabajo:\
+Integrantes del trabajo (programadores):\
 Carlos Castañon\
 Clara Puig\
 Eduard Vericat\
-Alfonso Sanchez
+Alfonso Sanchez\
+
+Director de equipo:\
+Ivan Morillas
 
