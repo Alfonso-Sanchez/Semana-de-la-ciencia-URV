@@ -9,5 +9,5 @@ Integrantes del trabajo:\
 Carlos Castañon\
 Clara Puig\
 Eduard Vericat\
-Alfonso Sanchez\
+Alfonso Sanchez
 
