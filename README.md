@@ -1,17 +1,28 @@
-Practica realizada con el contexto de la semana de la ciencia en la URV donde distintas empresas organizan: charlas, talleres y visitas. Para ello se debe controlar las empresas que estaran, las actividades que realizan y los usuarios que se inscriben.
+# URV Science Week Project
 
-Puntos a destacar de la practica:
-- Se ha manejado la herencia de clases, asi mismo el tratar de manejar la informacion de forma eficiente.
-- Hemos aprendido a cargar la informacion desde archivos y guardar esta informacion una vez tratada.
-- El diseño grafico de esta practica fue el primer reto, para todos integrantes del equipo, el cual hemos superado y estamos contentos de ello.
+## Description
 
-Integrantes del trabajo (programadores):\
-Carlos Castañon\
-Clara Puig\
-Eduard Vericat\
-Alfonso Sanchez\
+This project was carried out in the context of the Science Week at URV, where different companies organize talks, workshops, and visits. The main objective is to manage the participating companies, the activities they offer, and the users who register.
 
-Director de equipo:\
-Ivan Morillas
+## Key Highlights
 
-Se recomienda leer el informe para una información mas ampliada.
+*   **Class Inheritance:** Class inheritance was implemented to manage information efficiently.
+*   **Data Loading and Saving:** We learned to load information from files and save the processed data.
+*   **Graphic Design:** The graphic design was an initial challenge that we successfully overcame.
+
+## Team Members
+
+### Programmers:
+
+*   Carlos Castañon
+*   Clara Puig
+*   Eduard Vericat
+*   Alfonso Sanchez
+
+### Team Leader:
+
+*   Ivan Morillas
+
+## Additional Information
+
+It is recommended to consult the report for more detailed information about the project.
